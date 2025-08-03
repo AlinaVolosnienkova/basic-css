@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="uk">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Резюме</title>
+<style>
+  body {
+    background-color: #f0f8ff; /* світло-блакитний фон */
+  }
+  header {
+    background-color: #4caf50; /* зелена шапка */
+  }
+  section {
+    background-color: white;
+  }
+</style>
+</head>
+<body>
+
+  <header>
+    <h1>Резюме — Аліна</h1>
+  </header>
+
+  <section>
+    <h2>Про мене</h2>
+    <p>Я — відповідальна та креативна особистість, прагну розвиватися в сфері перекладу та цифрових технологій.</p>
+
+    <h2>Освіта</h2>
+    <ul>
+      <li>Таврійській національний університет імені В.І.Вернадського — Спеціальність:філологія</li>
+    </ul>
+  </section>
+
+</body>
+</html>
